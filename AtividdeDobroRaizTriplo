@@ -1,2 +1,2 @@
 num = int(input('Informe um número: '))
-print('O valor: {} tem o triplo de {}; a Raiz é: {} e o dobro é: {}'.format(num, (num *3), (num // 2), (num ** (1/2))))
+print('O valor: {} tem o triplo de {}; a Raiz é: {} e o dobro é: {}'.format(num, (num *3), (num // 2), pow(num, (1/2))))
