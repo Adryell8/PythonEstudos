@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb98ebf7-9050-4db1-95b1-f10906c481ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AdivinhaNumero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RaizQuaradaExerc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdivinhaNumero.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" selection-start-line="5" selection-end-line="6" />
+            <state relative-caret-position="257">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RaizQuaradaExerc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -82,6 +92,7 @@
         <option value="$PROJECT_DIR$/MediaAritimetica.py" />
         <option value="$PROJECT_DIR$/MediaAritmetica.py" />
         <option value="$PROJECT_DIR$/AdivinhaNumero.py" />
+        <option value="$PROJECT_DIR$/RaizQuaradaExerc.py" />
       </list>
     </option>
   </component>
@@ -131,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AdivinhaNumero">
+  <component name="RunManager" selected="Python.RaizQuaradaExerc">
     <configuration name="AdivinhaNumero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="EstudosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex000" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RaizQuaradaExerc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="EstudosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,7 +239,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex000" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RaizQuaradaExerc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RaizQuaradaExerc" />
         <item itemvalue="Python.AdivinhaNumero" />
         <item itemvalue="Python.MediaAritmetica" />
         <item itemvalue="Python.AtividdeDobroRaizTriplo" />
         <item itemvalue="Python.PredecessorESucessor" />
-        <item itemvalue="Python.ex000" />
       </list>
     </recent_temporary>
   </component>
@@ -314,8 +325,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AdivinhaNumero.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-end-line="6" />
+        <state relative-caret-position="257">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RaizQuaradaExerc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
         </state>
       </provider>
     </entry>
