@@ -1,6 +1,6 @@
 import random
 
-ans = random.randrange(1,101)
+ans = random.randrange(1,100)
 numtr = 0
 
 tr = int(input('Informe o número para adivinhar entre 1-100: '))
